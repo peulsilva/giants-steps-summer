@@ -7,9 +7,6 @@ O código em Python simula para os inputs fornecidos, as probabilidades do prime
 Use o controlador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar as dependências.
 
 ```bash
-pip install pandas
-
-
 pip install matplotlib
 ```
 
